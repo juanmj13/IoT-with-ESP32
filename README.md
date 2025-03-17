@@ -16,5 +16,3 @@ Stay tuned for more exciting projects to be added!
 ## Authors:
 
 - **Juan Manuel Jimenez**: juan.jimenez.c13@gmail.com
-
-I hope this is usefull!
